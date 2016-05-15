@@ -1,0 +1,9 @@
+# Install guide for library
+
+## Build
+
+Go to maven parent directory (mobile-client-api) and execute `mvn clean package`.
+
+## Install
+
+Copy .jar file to project and set dependency accordingly.

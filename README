@@ -1,0 +1,13 @@
+# CoCeSo Mobile Client API
+
+This library provides the data types for communication between [CoCeSo](https://sf.net/p/coceso)
+and mobile clients.
+
+## Versioning
+
+### 1.0
+
+Introduced types:
+* TODO
+* ...
+* ...
